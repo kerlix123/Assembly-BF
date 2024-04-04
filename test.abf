@@ -1,0 +1,92 @@
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+whl:
+mov > 1
+inc
+inc
+inc
+inc
+whl:
+mov > 1
+inc
+inc
+mov > 1
+inc
+inc
+inc
+mov > 1
+inc
+inc
+inc
+mov > 1
+inc
+mov < 4
+dec
+end
+mov > 1
+inc
+mov > 1
+inc
+mov > 1
+dec
+mov > 2
+inc
+whl:
+mov < 1
+end
+mov < 1
+dec
+end
+mov > 2
+out
+mov > 1
+dec
+dec
+dec
+out
+inc
+inc
+inc
+inc
+inc
+inc
+inc
+out
+out
+inc
+inc
+inc
+out
+mov > 2
+out
+mov < 1
+dec
+out
+mov < 1
+out
+inc
+inc
+inc
+out
+dec
+dec
+dec
+dec
+dec
+dec
+out
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+dec
+out
